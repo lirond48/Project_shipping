@@ -1,0 +1,20 @@
+@media only screen and (max-width: 600px) {
+    .class_key{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+   
+    }
+
+    .select_class{
+
+        margin:10px ;
+    }
+
+
+}
+
+.class_h2_header{
+    font-size: 50px;
+}
